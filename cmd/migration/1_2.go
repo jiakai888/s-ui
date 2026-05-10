@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/alireza0/s-ui/database/model"
+	"github.com/jiakai888/s-ui/database/model"
 
 	"gorm.io/gorm"
 )

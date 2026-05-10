@@ -3,14 +3,14 @@ package app
 import (
 	"log"
 
-	"github.com/alireza0/s-ui/config"
-	"github.com/alireza0/s-ui/core"
-	"github.com/alireza0/s-ui/cronjob"
-	"github.com/alireza0/s-ui/database"
-	"github.com/alireza0/s-ui/logger"
-	"github.com/alireza0/s-ui/service"
-	"github.com/alireza0/s-ui/sub"
-	"github.com/alireza0/s-ui/web"
+	"github.com/jiakai888/s-ui/config"
+	"github.com/jiakai888/s-ui/core"
+	"github.com/jiakai888/s-ui/cronjob"
+	"github.com/jiakai888/s-ui/database"
+	"github.com/jiakai888/s-ui/logger"
+	"github.com/jiakai888/s-ui/service"
+	"github.com/jiakai888/s-ui/sub"
+	"github.com/jiakai888/s-ui/web"
 
 	"github.com/op/go-logging"
 )

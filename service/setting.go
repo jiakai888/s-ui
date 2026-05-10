@@ -8,11 +8,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/alireza0/s-ui/config"
-	"github.com/alireza0/s-ui/database"
-	"github.com/alireza0/s-ui/database/model"
-	"github.com/alireza0/s-ui/logger"
-	"github.com/alireza0/s-ui/util/common"
+	"github.com/jiakai888/s-ui/config"
+	"github.com/jiakai888/s-ui/database"
+	"github.com/jiakai888/s-ui/database/model"
+	"github.com/jiakai888/s-ui/logger"
+	"github.com/jiakai888/s-ui/util/common"
 
 	"gorm.io/gorm"
 )

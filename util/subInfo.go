@@ -3,7 +3,7 @@ package util
 import (
 	"fmt"
 
-	"github.com/alireza0/s-ui/database/model"
+	"github.com/jiakai888/s-ui/database/model"
 )
 
 func GetHeaders(client *model.Client, updateInterval int) []string {

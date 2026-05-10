@@ -1,8 +1,8 @@
 package cronjob
 
 import (
-	"github.com/alireza0/s-ui/database"
-	"github.com/alireza0/s-ui/logger"
+	"github.com/jiakai888/s-ui/database"
+	"github.com/jiakai888/s-ui/logger"
 )
 
 type WALCheckpointJob struct{}
