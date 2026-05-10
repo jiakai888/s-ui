@@ -1,6 +1,9 @@
 # S-UI
 **An Advanced Web Panel • Built on SagerNet/Sing-Box**
 
+> This repository is an independent maintained fork/mirror based on the original [`alireza0/s-ui`](https://github.com/alireza0/s-ui).
+> Runtime install/update links intentionally point to [`jiakai888/s-ui`](https://github.com/jiakai888/s-ui) so releases remain available from this repository.
+
 ![](https://img.shields.io/github/v/release/jiakai888/s-ui.svg)
 ![S-UI Docker pull](https://img.shields.io/docker/pulls/jiakai888/s-ui.svg)
 [![Go Report Card](https://goreportcard.com/badge/github.com/jiakai888/s-ui)](https://goreportcard.com/report/github.com/jiakai888/s-ui)

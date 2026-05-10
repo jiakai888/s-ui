@@ -62,6 +62,7 @@ before_show_menu() {
     show_menu
 }
 
+# Repository note: this jiakai888/s-ui copy is based on the original alireza0/s-ui; download links below intentionally use jiakai888/s-ui releases/raw files.
 install() {
     bash <(curl -Ls https://raw.githubusercontent.com/jiakai888/s-ui/main/install.sh)
     if [[ $? == 0 ]]; then

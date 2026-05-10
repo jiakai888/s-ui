@@ -1,5 +1,8 @@
 # Windows Files
 
+> This Windows package documentation belongs to `jiakai888/s-ui`, an independent fork/mirror based on the original [`alireza0/s-ui`](https://github.com/alireza0/s-ui).
+
+
 This directory contains all Windows-specific files for S-UI.
 
 ## Available Files:

@@ -1,5 +1,8 @@
 # Contributing to S-UI
 
+> This repository is maintained as an independent fork/mirror based on the original [`alireza0/s-ui`](https://github.com/alireza0/s-ui).
+> Contribution and install links in this copy point to [`jiakai888/s-ui`](https://github.com/jiakai888/s-ui).
+
 Thank you for your interest in contributing to S-UI. This document explains how to set up a development environment, follow project conventions, and submit changes. Your contributions help make the **multi-inbound-per-user** approach and the rest of the project better for everyone.
 
 ## Table of Contents

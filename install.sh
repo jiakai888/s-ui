@@ -126,6 +126,7 @@ prepare_services() {
     systemctl daemon-reload
 }
 
+# Repository note: this jiakai888/s-ui copy is based on the original alireza0/s-ui; download links below intentionally use jiakai888/s-ui releases/raw files.
 install_s-ui() {
     cd /tmp/
 
